@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	background-color: #FFC4C5;
+	background-image: url(images/DOT_BG.jpg);
+	margin: auto;
+	padding: 10px;
+	height: 480px;
+	width: 320px;
+	position: relative;
+}
+#pic {
+	background-color: #D1FEFF;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+#word {
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 60%;
+}
